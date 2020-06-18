@@ -1,0 +1,45 @@
+* {
+  font-family: cursive;
+  } 
+
+  body {
+    background-color: rgb(77, 197, 157);
+    } 
+
+  #cabecera {
+      padding: 20px;
+      height: 40px;
+      background-color: beige;
+      } 
+
+  .frame {
+      width: 80%;
+      height: 300px;
+    } 
+
+  #body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    } 
+
+  .action-button {
+    padding: 15px;
+    background-color: coral;
+    border-radius: 10px;
+    color: #ffffff;
+    }
+
+  .action-button {
+    padding: 15px;
+    background-color: rgb(255, 243, 80);
+    border-radius: 10px;
+    color: #ffffff;
+    }
+
+  #footer{
+    border-block-start-color: darkgray;
+    color: #ffffff;
+    padding: 30px;
+      }
